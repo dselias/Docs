@@ -1,0 +1,7 @@
+.obsidian/
+.obsidian
+
+# exclude OS settings and caches
+.trash/
+.DS_Store
+
